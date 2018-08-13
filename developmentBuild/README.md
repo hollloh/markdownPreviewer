@@ -26,4 +26,4 @@ They are currently commented out.
 
 <br />
 
-If you're simply [adding react to html](https://reactjs.org/docs/add-react-to-a-website.html) the `source code` is `App.js` and `App.css`.
+If you're simply [adding react to html](https://reactjs.org/docs/add-react-to-a-website.html) the `source code` is `src/App.js` and `src/App.css`.
