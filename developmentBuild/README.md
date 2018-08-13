@@ -20,9 +20,12 @@ package.json is also configured to be hosted on github with the added properties
     "deploy": "gh-pages -d build"
 }
 ```
-They are currently commented out.
 
--- _[Other options](https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md#deployment) you might prefer._
+Adjust `"homepage"` to target your repo, or delete these properties and select a different [option](https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md#deployment).
+
+To be very clear, don't delete the `"scripts":` key;
+
+only delete the properties: `"predeploy":` and `"deploy":`.
 
 <br />
 
