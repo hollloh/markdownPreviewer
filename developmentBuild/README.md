@@ -4,7 +4,7 @@ To run this app locally with [create-react-app](https://github.com/facebook/crea
 package.json has [one added dependency](https://www.npmjs.com/package/marked) so you can either run:
 
 ```console
-$ npm update
+npm update
 ```
 
 or manually add [marked](https://www.npmjs.com/package/marked).
