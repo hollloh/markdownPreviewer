@@ -20,7 +20,9 @@ package.json is also configured to be hosted on github with the added properties
     "deploy": "gh-pages -d build"
 }
 ```
-If you're hosting you app some other way, these can be removed.
+They are currently commented out.
+
+-- _[Other options](https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md#deployment) you might prefer._
 
 <br />
 
